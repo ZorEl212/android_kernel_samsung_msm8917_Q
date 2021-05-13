@@ -121,5 +121,3 @@ sleep 5
 
 # Upload to Telegram
 sh ${HOME}/infoscripts/buildcompleted.sh
-
-exit
